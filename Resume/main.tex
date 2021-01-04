@@ -1,0 +1,165 @@
+\documentclass[12pt]{article}
+
+%% Define some new colors
+\usepackage{xcolor}
+\definecolor{mBlue}{RGB}{51, 77, 167}
+\newcommand{\blue}[1]{{\color{mBlue}#1}}
+
+%% Page and text formatting
+\usepackage[left=1.0in, right=1.0in, top=1.0in, bottom=1.0in]{geometry} % margins
+\usepackage{setspace}
+\singlespacing % No more than 6 lines of text per inch
+\usepackage{amsmath, amsfonts}
+\usepackage[T1]{fontenc}
+\usepackage{times}
+
+%% Make the sections start with (a), (b), etc.
+\renewcommand\thesection{(\alph{section})}
+\renewcommand\thesubsection{(\alph{subsection})}
+
+%% Set up footer
+\usepackage{fancyhdr}
+\fancypagestyle{CVfooter}
+{
+ \lhead{}
+ \chead{}
+ \rhead{}
+ \lfoot{\small{Thanh Dat Vu}}
+ \cfoot{\small{\today}}
+ \rfoot{\small{\thepage/2}}
+ \renewcommand{\headrulewidth}{0.0pt}
+ \renewcommand{\footrulewidth}{0.5pt}
+}
+
+%% Set up hyperlinks
+\usepackage[linktoc=page]{hyperref}
+\hypersetup{
+  colorlinks = true,
+  urlcolor = mBlue,
+  citecolor = mBlue,
+  linkcolor = mBlue,
+}
+
+%% Set up citations and bibliography
+\usepackage{bibunits}
+\usepackage[sort&compress,super]{natbib}
+\defaultbibliographystyle{apsrev4-2}
+\setcitestyle{comma}
+\setlength{\bibsep}{0pt}
+\renewcommand{\bibnumfmt}[1]{\ \ \ #1.}
+\renewcommand\refname{\vspace{-7mm}}
+
+%% This allows us to start a bibliography with arbitrary number
+\usepackage{etoolbox}
+\makeatletter
+\newcommand*{\newbibstartnumber}[1]{%
+  \apptocmd{\thebibliography}{%
+    \global\c@NAT@ctr #1\relax
+    \addtocounter{NAT@ctr}{-1}%
+  }{}{}%
+}
+\makeatother
+
+%% Reduce whitespace around lists (globally)
+\usepackage{enumitem}
+\setlist[itemize]{nosep,left=0pt}
+\setlist[enumerate]{nosep}
+\setlist[description]{nosep}
+
+%% Formatting for sections
+\usepackage[compact]{titlesec}
+\titleformat*{\section}{\normalsize\bfseries}
+\titlespacing*{\section}{0mm}{2mm}{1mm}[0mm] % left top bottom right
+\titleformat*{\subsection}{\normalsize\bfseries}
+\titlespacing*{\subsection}{0mm}{2mm}{1mm}[0mm]
+\titleformat*{\subsubsection}{\normalsize\bfseries\itshape}
+\titlespacing*{\subsubsection}{0mm}{1mm}{0mm}[0mm]
+
+\begin{document}
+\pagestyle{CVfooter}
+
+\noindent \textbf{\uppercase{Resumé}}
+\vspace{2mm}
+
+\noindent \textbf{Thanh Dat Vu}
+\vspace{1mm}
+
+\noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}l r}
+Research Scientist & Email: \href{mailto:stephen.t.vu@hotmai.com}{stephen.t.vu@hotmai.com} \\
+FPT University & Web: \href{https://datvuthanh.github.io/}{https://datvuthanh.github.io} \\
+Hoa Lac, Hanoi & Phone: 866-010-398 \\
+\hline
+\end{tabular*}
+
+\section{Education \& Training}
+
+\begin{tabular}{l l l l}
+FPT University & Hoa Lac, Hanoi & Computer Vision & B.Sc, 2018-2021 \\
+\end{tabular}
+
+\section{Research \& Professional Experience}
+
+\begin{tabular}{l l}
+2018 -- 2019 & Chairman of FPTU Artificial Intelligence Club \\
+2017 -- 2018 & Research Intern, Viettel Cyberspace Center \\
+\end{tabular}
+
+\section{Research Area}
+Stereo matching,stereo image processing,cameras,compensation,correlation methods, semantic segmentation, deep generative models.
+
+\section{Publications}
+
+\vspace{2mm}
+\noindent \textbf{\textit{\ \ Most closely related}}
+\begin{bibunit}
+\nocite{apsrev42Control}
+\nocite{datvu2021}
+\putbib[publications]
+\end{bibunit}
+% \vspace{2mm}
+% \noindent \textbf{\textit{\ \ Honors \& Awards}}
+% \newbibstartnumber{6}
+% \begin{bibunit}
+% \nocite{apsrev42Control}
+% \nocite{CominScience2014,ZeljkovicNanoLetters2014,SoumyanarayananPNAS2013,ZeljkovicScience2012,HoffmanScience2002qpi}
+% \putbib[publications]
+% \end{bibunit}
+
+\section{Synergistic Activities}
+\begin{enumerate}
+    \item Working with \href{https://ieeexplore.ieee.org/author/38542826300}{Ph.D. Vinh Quang Dinh} in cover topics such as stereo matching, semantic segmentation, deep generative models:
+        \begin{itemize}
+            \item Research about creating the corresponding patch in stereo matching by implementing deep generative models as DCGAN combine WGAN or Pix2Pix. There is a part of the plan to write my paper.
+            \item Working with Assistant Professor \href{https://scholar.google.com/citations?user=Ei00xroAAAAJ&hl=en}{Hae-Gon Jeon} with Ph.D. Vinh Quang Dinh to improve the result disparity maps (post-processing) in SPIMNET architecture by using Semi-Global Matching, Cross-Scale Cost Aggregation, etc.
+        \end{itemize}
+    \item Chairman \& Founder in FPTU Artifical Intelligence Club, 2018-2019:
+        \begin{itemize}
+        \item Manage, and build an artificial intelligence research club. These include developing club culture, communication, and focusing on computer vision issues.
+        \item Build a movement and promote AI researching at FPT University. Collaborate with other clubs as well as open talkshows about AI with experts.
+        \item Open mini courses to teach member's club about machine learning/ deep learning on supervised learning, unsupervised learning problems.
+        \end{itemize}
+    \item Research intern in Viettel Cyberspace Center about Speech Recognition, 2017-2018:
+        \begin{itemize}
+        \item Research about automatic speech recognition based on deep learning method, the traditional method like Hidden Markov Models.
+        \item {Learn how the voice recognition system works.
+        \item Build ASR model based on Connectionist Temporal Classification (CTC) - Deep Speech.
+        \item Expert in handling tasks on Linux using Shell script
+        \end{itemize}
+\end{enumerate}
+\section{Honors & Awards}
+\begin{enumerate}
+
+\item Ph.D candidate of UET university (full scholarship) , 2020.
+
+\item The champion of Digital Race, 2020. \\
+    Goodgame is the champion of Digital Race; we won \$42,000.
+
+\item VEF Academy certificate about Machine Learning, 2019.
+
+\item Nhan Tai Dat Viet, 2016
+\item 3rd prize ISEF Vietnam, 2015
+
+\end{enumerate}
+
+\end{document}
+

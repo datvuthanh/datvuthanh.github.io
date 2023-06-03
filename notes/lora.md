@@ -2,7 +2,7 @@
 
 _June 2023_
 
-tl;dr: A Efficient Training Speed Up Improvement for LLMs
+tl;dr: An Efficient Training Speed Improvement for Large Language Models (LLMs)
 
 #### Overall impression
 

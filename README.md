@@ -11,7 +11,7 @@ You can read my notes [here](notes/start.md).
 ## 2023-06
 
 - [QLORA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/pdf/2305.14314v1.pdf) [Tim Dettmers]
-- [LORA: LOW-RANK ADAPTATION OF LARGE LAN- GUAGE MODELS](https://arxiv.org/pdf/2106.09685.pdf) [Edward Hu]
+- [LORA: LOW-RANK ADAPTATION OF LARGE LAN- GUAGE MODELS](https://arxiv.org/pdf/2106.09685.pdf) [Notes](notes/lora.md) [Edward Hu]
 - [Occupancy Networks: Learning 3D Reconstruction in Function Space](https://arxiv.org/abs/1812.03828) <kbd>CVPR 2019</kbd> [Andreas Geiger]
 - [Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving](https://arxiv.org/abs/2304.14365) [Occupancy Network, Zhao Hang]
 

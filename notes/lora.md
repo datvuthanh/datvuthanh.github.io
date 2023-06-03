@@ -21,7 +21,7 @@ tl;dr: An Efficient Training Speed Improvement for Large Language Models (LLMs)
 
 ### Code ideas
 
-```python=
+```python
 import torch
 import torch.nn
 

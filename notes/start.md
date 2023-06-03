@@ -1,1 +1,3 @@
-I will update this soon. Thank you for reading!
+# Deep Learning Notes
+
+- LORA: LOW-RANK ADAPTATION OF LARGE LAN- GUAGE MODELS [[Notes](lora.md)]

@@ -1,3 +1,3 @@
 # Deep Learning Notes
 
-- LORA: LOW-RANK ADAPTATION OF LARGE LAN- GUAGE MODELS [[Notes](lora.md)]
+- LoRA: Low-rank adaptation of large language models [[Notes](lora.md)]

@@ -14,7 +14,7 @@ tl;dr: An Efficient Training Speed Improvement for Large Language Models (LLMs)
 #### Key ideas
 
 - Freeze Pretrained Weights $`W`$.
-- Create new $W'=W+\Delta W$. Where $\Delta W$ is the weight decomposition, so the network only needs to derive the gradients of $\Delta W$. 
+- Create new $`W'=W+\Delta W`$. Where $\Delta W$ is the weight decomposition, so the network only needs to derive the gradients of $\Delta W$. 
 - $\Delta W=\alpha * W_{A}W_{B}$. Where $W_{A}=A \times r$, $W_{B}=r \times B$, $r$ is low-rank representation and $alpha$ is the scale factor. We keep the original weight W frozen and **only train** the new matrices $W_{A}$ and $W_{B}$.
 - However, choosing the rank $r$ has trade-off between model complexity, adaptation capacity, the risk of underfitting and overfitting. 
 - It is necessary to perform various experiments to choose the right $r$ value to achieve the best possible performance.

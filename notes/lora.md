@@ -28,18 +28,18 @@ import torch.nn
 embed_dim = 128
 output_dim = 512
 rank = 4 # the rank 'r' 
-scale_factor = 5
+scale_factor = 5 # alpha
 
 W = ... # Pretrained weight from network with shape (embed_dim x output_dim)
 
 W_A = nn.Parameter(torch.randn(embed_dim, rank)) # LoRA weight A
 W_B = nn.Parameter(torch.randn(rank, output_dim)) # LoRA weight B
 
-def lora_forward(self, x, W, W):
-    new_W = x @ W # the normal forward
-    new_W += x @ scale_factor * (W_A @ W_B) 
+def lora_forward(self, x):
+    hidden_layer = x @ W # the normal forward
+    hidden_layer += x @ scale_factor * (W_A @ W_B) 
     
-    return new_W
+    return hidden_layer
 ```
 
 #### Notes

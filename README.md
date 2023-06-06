@@ -10,6 +10,7 @@ You can read my notes [here](notes/start.md).
 
 ## 2023-06
 
+- [Better plain ViT baselines for ImageNet-1k](https://arxiv.org/pdf/2205.01580.pdf) [Lucas Beyer]
 - [FUTR3D: A Unified Sensor Fusion Framework for 3D Detection](https://arxiv.org/pdf/2203.10642.pdf) [Xuanyao Chen]
 - [Iterative Deep Homography Estimation](https://arxiv.org/pdf/2203.15982.pdf) <kbd>CVPR 2022</kbd> [Si-Yuan Cao]
 - [Recurrent Homography Estimation Using Homography-Guided Image Warping and Focus Transformer](https://openaccess.thecvf.com/content/CVPR2023/papers/Cao_Recurrent_Homography_Estimation_Using_Homography-Guided_Image_Warping_and_Focus_Transformer_CVPR_2023_paper.pdf) <kbd>CVPR 2023</kbd> [Si-Yuan Cao]

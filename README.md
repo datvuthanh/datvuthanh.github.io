@@ -10,7 +10,7 @@ You can read my notes [here](notes/start.md).
 
 ## 2023-06
 
-- [https://arxiv.org/pdf/2205.14135.pdf](FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness) [Tri Dao]
+- [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/pdf/2205.14135.pdf) [Tri Dao]
 - [Better plain ViT baselines for ImageNet-1k](https://arxiv.org/pdf/2205.01580.pdf) [Lucas Beyer]
 - [FUTR3D: A Unified Sensor Fusion Framework for 3D Detection](https://arxiv.org/pdf/2203.10642.pdf) [Xuanyao Chen]
 - [Iterative Deep Homography Estimation](https://arxiv.org/pdf/2203.15982.pdf) <kbd>CVPR 2022</kbd> [Si-Yuan Cao]

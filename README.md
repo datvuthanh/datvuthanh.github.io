@@ -10,6 +10,8 @@ You can read my notes [here](notes/start.md).
 
 ## 2023-06
 
+- [A Unified Sequence Interface for Vision Tasks](https://arxiv.org/pdf/2206.07669.pdf)[Ting Chen]
+- [Pix2seq: A Language Modeling Framework for Object Detection](https://arxiv.org/abs/2109.10852) [Ting Chen]
 - [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/pdf/2205.14135.pdf) [Tri Dao]
 - [Better plain ViT baselines for ImageNet-1k](https://arxiv.org/pdf/2205.01580.pdf) [Lucas Beyer]
 - [FUTR3D: A Unified Sensor Fusion Framework for 3D Detection](https://arxiv.org/pdf/2203.10642.pdf) [Xuanyao Chen]

@@ -33,6 +33,8 @@ From my perspective, Haomo's approach appears to be highly theoretical and chall
 #### References
 
 [1] [Haomo 8th AI Day](https://live.yiche.com/live/266120.html)
+
 [2] [Pix2seq: A Language Modeling Framework for Object Detection](https://arxiv.org/abs/2109.10852)
+
 [3] [A Unified Sequence Interface for Vision Tasks](https://arxiv.org/pdf/2206.07669.pdf)
 

@@ -8,7 +8,7 @@ tl;dr: The ChatGPT for Autonomous Driving Car
 
 - Drive Language Model has been announced by Haomo [1], an autonomous driving startup in China. It is based on OpenAI's GPT and utilizes a customized Decoder Block.
 - I think that DriveGPT may have drawn inspiration from the paper Pix2Seq, as the tokenization approach used by Haomo appears to resemble **Pix2Seq** [2], particularly **Pix2Seq V2** [3].
-- I would like to highlight that the planning module can be divided into three sub-modules: mission planning, behavior planning, and local planning. Let me provide more details on each:
+- I would like to highlight that the planning module can be divided into three sub-modules: global planning, behavior planning, and local planning. Let me provide more details on each:
     - Global Planning: This high-level planning component determines the optimal route to reach the final destination. For example, we often use Google Maps to find the global path.
     - Behavior Planning: This mid-level planning component determines real-time high-level actions needed to handle dynamic obstacles. For instance, actions may involve lane switching, turning, or stopping.
     - Local Planning: This low-level component focuses on scene optimization to achieve behavior planning objectives.

@@ -10,6 +10,7 @@ You can read my notes [here](notes/start.md).
 
 ## 2023-06
 
+- [Planning-oriented Autonomous Driving](https://arxiv.org/abs/2212.10156) <kbd>Best Paper CVPR 2023</kbd> [Yihan Hu]
 - [MetaFormer Is Actually What You Need for Vision](https://arxiv.org/abs/2111.11418) [Weihao Yu]
 - [A Unified Sequence Interface for Vision Tasks](https://arxiv.org/pdf/2206.07669.pdf) [Ting Chen]
 - [Pix2seq: A Language Modeling Framework for Object Detection](https://arxiv.org/abs/2109.10852) [Ting Chen]

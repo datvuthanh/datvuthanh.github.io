@@ -10,6 +10,7 @@ You can read my notes [here](notes/start.md).
 
 ## 2023-06
 
+- [Vision Transformer with Deformable Attention](https://arxiv.org/abs/2201.00520) [Zhuofan Xia]
 - [Planning-oriented Autonomous Driving](https://arxiv.org/abs/2212.10156) <kbd>CVPR 2023 Best Paper</kbd> [Yihan Hu]
 - [MetaFormer Is Actually What You Need for Vision](https://arxiv.org/abs/2111.11418) [Weihao Yu]
 - [A Unified Sequence Interface for Vision Tasks](https://arxiv.org/pdf/2206.07669.pdf) [Ting Chen]

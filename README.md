@@ -11,6 +11,7 @@ You can read my notes [here](notes/start.md).
 ## 2023-07
 
 - [Gato: A Generalist Agent](https://arxiv.org/abs/2205.06175) [Scott Reed]
+- [Bytes Are All You Need: Transformers Operating Directly On File Bytes](https://arxiv.org/abs/2306.00238) [Maxwell Horton]
 
 ## 2023-06
 

@@ -8,6 +8,10 @@ My name is [Dat Vu](https://www.linkedin.com/in/datvuthanh), and I am currently 
 
 You can read my notes [here](notes/start.md).
 
+## 2023-07
+
+- [Gato: A Generalist Agent](https://arxiv.org/abs/2205.06175) [Scott Reed]
+
 ## 2023-06
 
 - [Vision Transformer with Deformable Attention](https://arxiv.org/abs/2201.00520) [Zhuofan Xia]

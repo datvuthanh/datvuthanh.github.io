@@ -10,6 +10,9 @@ You can read my notes [here](notes/start.md).
 
 ## 2023-07
 
+- [PlanT: Explainable Planning Transformers via Object-Level Representations](https://arxiv.org/abs/2210.14222) [Katrin Renz]
+- [Think Twice before Driving: Towards Scalable Decoders for End-to-End Autonomous Driving](https://arxiv.org/abs/2305.06242) [Xiaosong Jia]
+- [Scaling Self-Supervised End-to-End Driving with Multi-View Attention Learning](https://arxiv.org/abs/2302.03198) [Yi Xiao]
 - [Gato: A Generalist Agent](https://arxiv.org/abs/2205.06175) [Scott Reed]
 - [Bytes Are All You Need: Transformers Operating Directly On File Bytes](https://arxiv.org/abs/2306.00238) [Maxwell Horton]
 

@@ -10,6 +10,9 @@ You can read my notes [here](notes/start.md).
 
 ## 2023-07
 
+- [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://scontent-hkg4-1.xx.fbcdn.net/v/t39.2365-6/10000000_663429262362723_1696968207443577320_n.pdf?_nc_cat=101&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=5ol-jUSglG4AX9l70Cd&_nc_ht=scontent-hkg4-1.xx&oh=00_AfBZLk5cJwQAsa7G6JIbzCTUZhJpUzNyfgAPpg391bbdrA&oe=64BBB691) [Hugo Touvron]
+- [Dilated Neighborhood Attention Transformer](https://arxiv.org/abs/2209.15001) [Ali Hassani]
+- [Neighborhood Attention Transformer](https://arxiv.org/abs/2204.07143) [Ali Hassani]
 - [PlanT: Explainable Planning Transformers via Object-Level Representations](https://arxiv.org/abs/2210.14222) [Katrin Renz]
 - [Think Twice before Driving: Towards Scalable Decoders for End-to-End Autonomous Driving](https://arxiv.org/abs/2305.06242) [Xiaosong Jia]
 - [Scaling Self-Supervised End-to-End Driving with Multi-View Attention Learning](https://arxiv.org/abs/2302.03198) [Yi Xiao]

@@ -1,5 +1,5 @@
 # Paper Notes
-This repository contains my paper reading notes on deep learning and machine learning. It is inspired by [Denny Britz](https://github.com/dennybritz/deeplearning-papernotes) and [Daniel Takeshi](https://github.com/DanielTakeshi/Paper_Notes), especially [Patrick Langechuan Liu](https://www.linkedin.com/in/patrick-llgc/).
+This repository contains my paper reading notes on deep learning and machine learning. It is inspired by [Denny Britz](https://github.com/dennybritz/deeplearning-papernotes), [Daniel Takeshi](https://github.com/DanielTakeshi/Paper_Notes) and especially [Patrick Langechuan Liu](https://www.linkedin.com/in/patrick-llgc/).
 
 ## About Me
 My name is [Dat Vu](https://www.linkedin.com/in/datvuthanh), and I am currently leading the AI Team at [PhenikaaX](https://phenikaa-x.com), a rapidly growing autonomous and industrial robot company where I serve as the Computer Vision Leader. I have a passion for seeking answers to complex questions and take great joy in exploring and deeply understanding mathematical concepts. You can see my publications [here](https://scholar.google.com/citations?user=F2RswlkAAAAJ&hl=vi&oi=ao).

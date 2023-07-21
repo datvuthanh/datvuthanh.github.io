@@ -10,13 +10,16 @@ You can read my notes [here](notes/start.md).
 
 ## 2023-07
 
+- [MINEDOJO: Building Open-Ended Embodied Agents with Internet-Scale Knowledge](https://proceedings.neurips.cc/paper_files/paper/2022/file/74a67268c5cc5910f64938cac4526a90-Paper-Datasets_and_Benchmarks.pdf) <kbd>NeurIPS 2022</kbd> [Linxi Fan]
+- [Riemannian Score-Based Generative Modelling](https://proceedings.neurips.cc/paper_files/paper/2022/file/105112d52254f86d5854f3da734a52b4-Paper-Conference.pdf) <kbd>NeurIPS 2022</kbd> [Valentin De Bortoli]
+- [Gradient Descent: The Ultimate Optimizer](https://proceedings.neurips.cc/paper_files/paper/2022/file/36ce475705c1dc6c50a5956cedff3d01-Paper-Conference.pdf) <kbd>NeurIPS 2022</kbd> [Kartik Chandra]
 - [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://scontent-hkg4-1.xx.fbcdn.net/v/t39.2365-6/10000000_663429262362723_1696968207443577320_n.pdf?_nc_cat=101&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=5ol-jUSglG4AX9l70Cd&_nc_ht=scontent-hkg4-1.xx&oh=00_AfBZLk5cJwQAsa7G6JIbzCTUZhJpUzNyfgAPpg391bbdrA&oe=64BBB691) [Hugo Touvron]
 - [Dilated Neighborhood Attention Transformer](https://arxiv.org/abs/2209.15001) [Ali Hassani]
-- [Neighborhood Attention Transformer](https://arxiv.org/abs/2204.07143) [Ali Hassani]
-- [PlanT: Explainable Planning Transformers via Object-Level Representations](https://arxiv.org/abs/2210.14222) [Katrin Renz]
-- [Think Twice before Driving: Towards Scalable Decoders for End-to-End Autonomous Driving](https://arxiv.org/abs/2305.06242) [Xiaosong Jia]
+- [Neighborhood Attention Transformer](https://arxiv.org/abs/2204.07143) <kbd>CVPR 2023</kbd> [Ali Hassani]
+- [PlanT: Explainable Planning Transformers via Object-Level Representations](https://arxiv.org/abs/2210.14222) <kbd>CoRL 2022</kbd> [Katrin Renz]
+- [Think Twice before Driving: Towards Scalable Decoders for End-to-End Autonomous Driving](https://arxiv.org/abs/2305.06242) <kbd>CVPR 2023</kbd> [Xiaosong Jia]
 - [Scaling Self-Supervised End-to-End Driving with Multi-View Attention Learning](https://arxiv.org/abs/2302.03198) [Yi Xiao]
-- [Gato: A Generalist Agent](https://arxiv.org/abs/2205.06175) [Scott Reed]
+- [Gato: A Generalist Agent](https://arxiv.org/abs/2205.06175) <kbd>TMLR 2022 </kbd> [Scott Reed]
 - [Bytes Are All You Need: Transformers Operating Directly On File Bytes](https://arxiv.org/abs/2306.00238) [Maxwell Horton]
 
 ## 2023-06

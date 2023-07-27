@@ -10,6 +10,7 @@ You can read my notes [here](notes/start.md).
 
 ## 2023-07
 
+- [LightGlue: Local Feature Matching at Light Speed](https://arxiv.org/abs/2306.13643) [Philipp Lindenberger]
 - [Trajectory-guided Control Prediction for End-to-end Autonomous Driving: A Simple yet Strong Baseline](https://arxiv.org/pdf/2206.08129.pdf) <kbd>NeurIPS 2022</kbd> [Penghao Wu]
 - [OpenLane-V2: A Topology Reasoning Benchmark for Scene Understanding in Autonomous Driving](https://arxiv.org/abs/2304.10440) [Huijie Wang]
 - [MINEDOJO: Building Open-Ended Embodied Agents with Internet-Scale Knowledge](https://proceedings.neurips.cc/paper_files/paper/2022/file/74a67268c5cc5910f64938cac4526a90-Paper-Datasets_and_Benchmarks.pdf) <kbd>NeurIPS 2022</kbd> [Linxi Fan]

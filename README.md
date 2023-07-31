@@ -10,6 +10,8 @@ You can read my notes [here](notes/start.md).
 
 ## 2023-07
 
+- [VN-Transformer: Rotation-Equivariant Attention for Vector
+Neurons](https://arxiv.org/pdf/2206.04176.pdf) [Serge Assaad]
 - [LightGlue: Local Feature Matching at Light Speed](https://arxiv.org/abs/2306.13643) [Philipp Lindenberger]
 - [Trajectory-guided Control Prediction for End-to-end Autonomous Driving: A Simple yet Strong Baseline](https://arxiv.org/pdf/2206.08129.pdf) <kbd>NeurIPS 2022</kbd> [Penghao Wu]
 - [OpenLane-V2: A Topology Reasoning Benchmark for Scene Understanding in Autonomous Driving](https://arxiv.org/abs/2304.10440) [Huijie Wang]

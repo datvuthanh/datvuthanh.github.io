@@ -14,10 +14,10 @@ You can read my notes [here](notes/start.md).
 - [Vision-Language Models for Vision Tasks: A Survey](https://arxiv.org/pdf/2304.00685.pdf) [Jingyi Zhang]
 - [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://robotics-transformer2.github.io/assets/rt2.pdf) [Anthony Brohan]
 - [RT-1: Robotics Transformer for Real-World Control at Scale](https://arxiv.org/abs/2212.06817) [Anthony Brohan]
+
 ## 2023-07
 
-- [VN-Transformer: Rotation-Equivariant Attention for Vector
-Neurons](https://arxiv.org/pdf/2206.04176.pdf) [Serge Assaad]
+- [VN-Transformer: Rotation-Equivariant Attention for Vector Neurons](https://arxiv.org/pdf/2206.04176.pdf) [Serge Assaad]
 - [LightGlue: Local Feature Matching at Light Speed](https://arxiv.org/abs/2306.13643) [Philipp Lindenberger]
 - [Trajectory-guided Control Prediction for End-to-end Autonomous Driving: A Simple yet Strong Baseline](https://arxiv.org/pdf/2206.08129.pdf) <kbd>NeurIPS 2022</kbd> [Penghao Wu]
 - [OpenLane-V2: A Topology Reasoning Benchmark for Scene Understanding in Autonomous Driving](https://arxiv.org/abs/2304.10440) [Huijie Wang]

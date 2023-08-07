@@ -8,6 +8,12 @@ My name is [Dat Vu](https://www.linkedin.com/in/datvuthanh), and I am currently 
 
 You can read my notes [here](notes/start.md).
 
+## 2023-08
+
+- [PaLM-E: An Embodied Multimodal Language Model](https://palm-e.github.io/assets/palm-e.pdf) [Danny Driess]
+- [Vision-Language Models for Vision Tasks: A Survey](https://arxiv.org/pdf/2304.00685.pdf) [Jingyi Zhang]
+- [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://robotics-transformer2.github.io/assets/rt2.pdf) [Anthony Brohan]
+- [RT-1: Robotics Transformer for Real-World Control at Scale](https://arxiv.org/abs/2212.06817) [Anthony Brohan]
 ## 2023-07
 
 - [VN-Transformer: Rotation-Equivariant Attention for Vector

@@ -8,6 +8,9 @@ My name is [Dat Vu](https://www.linkedin.com/in/datvuthanh), and I am currently 
 
 You can read my notes [here](notes/start.md).
 
+## 2023-09
+
+- [Multi-Modal Fusion Transformer for End-to-End Autonomous Driving](https://arxiv.org/abs/2104.09224) [Aditya Prakash]
 ## 2023-08
 
 - [PaLM-E: An Embodied Multimodal Language Model](https://palm-e.github.io/assets/palm-e.pdf) [Danny Driess]

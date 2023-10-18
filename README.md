@@ -8,6 +8,11 @@ My name is [Dat Vu](https://www.linkedin.com/in/datvuthanh), and I am currently 
 
 You can read my notes [here](notes/start.md).
 
+## 2023-10
+
+- [RetNet: Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/pdf/2307.08621.pdf) [MSRA]
+- [An Attention Free Transformer](https://arxiv.org/pdf/2105.14103.pdf) [Apple]
+
 ## 2023-09
 
 - [Multi-Modal Fusion Transformer for End-to-End Autonomous Driving](https://arxiv.org/abs/2104.09224) [Aditya Prakash]
